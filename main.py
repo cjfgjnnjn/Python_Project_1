@@ -9,8 +9,8 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 def mail_fication():
-    password = "cswv kuxx vsos mldx"
-    me = "singhavijit395@gmail.com"
+    password = "found your own"
+    me = "give your own"
     #you = e_mail
 
     email_body = random.randint(1451, 12721)
