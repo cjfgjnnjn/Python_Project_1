@@ -44,7 +44,7 @@ elif(h>=17 and h<0):
   print("Good Night Sir!" + _name_)
 a = int(input(_name_ + ", enter your age here:"))
 # Avijit_Singh = 51843065163
-# Jitesh_Singh = 76387879387
+
 
 
 
